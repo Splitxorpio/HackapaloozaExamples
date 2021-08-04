@@ -11,8 +11,8 @@ Explodes your tabs at Midnight
 
 With TabExplosion, your tabs implode when the clock strikes 12. You will never have to deal with dozens of pages of tabs ever again. Increase your productivity, and start each day fresh with a blank browser. You can decide which day you want to blow up your browser (by default every Friday), or even schedule it daily for the hardcore web-surfer.
 
-- [Link](https://chrome.google.com/webstore/detail/tab-explosion/fecbckedngnkacggjflnldgjknhflljf?hl=en-US) 
-- [Repository](https://github.com/GoldinGuy/TabExplosion)
+[Link](https://chrome.google.com/webstore/detail/tab-explosion/fecbckedngnkacggjflnldgjknhflljf?hl=en-US) 
+[Repository](https://github.com/GoldinGuy/TabExplosion)
 
 Created by @GoldinGuy
 
@@ -22,7 +22,7 @@ Created by @GoldinGuy
 
 This extension blocks any content that is NOT an ad. This shows you the Internet the way content creators want you to see it: by blocking any content that is NOT an ad. It helps you focus on the important parts of webpages.
 
-- [Link](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) 
+[Link](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) 
 
 Created by Miklos Pataky and Carl Jamilkowski
 
@@ -32,7 +32,7 @@ Created by Miklos Pataky and Carl Jamilkowski
 
 Infinite Folders creates infinite folders on your computer
 
-- [Repository](https://github.com/montoyamoraga/infinite-folders) 
+[Repository](https://github.com/montoyamoraga/infinite-folders) 
 
 Created by AarÃ³n Montoya-Moraga.
 
@@ -43,7 +43,7 @@ Created by AarÃ³n Montoya-Moraga.
 
 Outcognito Mode is a Chrome extension that publicly tweets every website you visit and everything you type.
 
-- [Repository](https://github.com/hrldcpr/outcognito-mode) 
+[Repository](https://github.com/hrldcpr/outcognito-mode) 
 
 Created by Harold Cooper.
 
@@ -55,7 +55,7 @@ Created by Harold Cooper.
 
 Eyeball Pong is pong game played by not looking at it.
 
-- [Repository](https://github.com/bdon/eyeball_pong) 
+[Repository](https://github.com/bdon/eyeball_pong) 
 
 Created by Brandon Liu.
 
@@ -66,7 +66,7 @@ Created by Brandon Liu.
 
 Godotify is a facebook messaging app that keeps users waiting forever.
 
-- [Link](https://agermanidis.github.io/facebook-godot/) 
+[Link](https://agermanidis.github.io/facebook-godot/) 
 
 Created by Anastasis Germanidis and Iain Nash.
 
