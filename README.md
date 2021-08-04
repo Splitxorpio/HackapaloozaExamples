@@ -2,7 +2,7 @@
 
 Below are several examples of "unnecessary" projects that may help to get your wheels turning for Hackapalooza! Many of these examples are sourced from the Terrible Ideas Hackathon 2016.
 
-### 🔥 Tab Explosion
+- ### 🔥 Tab Explosion
 
 ![image](https://user-images.githubusercontent.com/47064842/128105007-94176c47-9421-4fd4-9a4a-6a062e34bda7.png)
 
@@ -16,7 +16,7 @@ With TabExplosion, your tabs implode when the clock strikes 12. You will never h
 
 Created by @GoldinGuy
 
-### 🛑 Non-Ad Block
+- ### 🛑 Non-Ad Block
 
 ![image](https://user-images.githubusercontent.com/47064842/128118109-8b2d27a7-a2b8-4ddf-ad9a-f7993fd8f22c.png)
 
@@ -26,7 +26,7 @@ This extension blocks any content that is NOT an ad. This shows you the Internet
 
 Created by Miklos Pataky and Carl Jamilkowski
 
-### 📁 Infinite Folders
+- ### 📁 Infinite Folders
 
 ![image](https://user-images.githubusercontent.com/47064842/128118333-a978dae4-8e78-4d14-8343-29e93eab8ee3.png)
 
@@ -37,7 +37,19 @@ Infinite Folders creates infinite folders on your computer
 Created by AarÃ³n Montoya-Moraga.
 
 
-### 👀 Eyeball Pong
+- ### 🎩 Outcognito Mode
+
+![image](https://user-images.githubusercontent.com/47064842/128119185-175b9f03-4515-48c7-9618-78ab60376e5a.png)
+
+Outcognito Mode is a Chrome extension that publicly tweets every website you visit and everything you type.
+
+- [Repository](https://github.com/hrldcpr/outcognito-mode) 
+
+Created by Harold Cooper.
+
+
+
+- ### 👀 Eyeball Pong
 
 ![image](https://user-images.githubusercontent.com/47064842/128118772-89d14ae5-05ea-4fed-ae83-3027055f5f8c.png)
 
@@ -48,7 +60,7 @@ Eyeball Pong is pong game played by not looking at it.
 Created by Brandon Liu.
 
 
-### 💬 Godotify
+- ### 💬 Godotify
 
 ![image](https://user-images.githubusercontent.com/47064842/128118834-d0afbc7b-0dc7-49b8-a08b-4b8f3669577b.png)
 
@@ -57,18 +69,6 @@ Godotify is a facebook messaging app that keeps users waiting forever.
 - [Link](https://agermanidis.github.io/facebook-godot/) 
 
 Created by Anastasis Germanidis and Iain Nash.
-
-
-### 🎩 Outcognito Mode
-
-![image](https://user-images.githubusercontent.com/47064842/128119185-175b9f03-4515-48c7-9618-78ab60376e5a.png)
-
-Outcognito Mode is a Chrome extension that publicly tweets every website you visit and everything you type.
-
-- [Repository](https://github.com/hrldcpr/outcognito-mode) 
-
-Created by Harold Cooper.
-
 
 
 
